@@ -1,0 +1,19 @@
+.vertical-grid-container {
+    display: flex;
+}
+
+.sidebar {
+    width: 190px;
+    background-color: lightwhite;
+    padding: 30px;
+}
+
+.main-content {
+    flex: 3;
+    padding: 40px;
+}
+
+.main {
+    flex: 1;
+    padding: 20px;
+}
